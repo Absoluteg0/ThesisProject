@@ -1,6 +1,8 @@
 # Thesis Project
 This repository contains my motion graphics thesis project for Metropolia UAS. The purpose of this project was to make a basic boids sim in Unreal Engine 5.
 
+https://github.com/user-attachments/assets/22ae3baf-de83-4716-9ba6-a78ec2f67515
+
 ## Tutorials used
 ### Vertex animation textures:
 * https://www.youtube.com/watch?v=w7oq8nga4bE&t=422s
