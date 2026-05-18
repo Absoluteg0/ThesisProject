@@ -1,5 +1,6 @@
 # Thesis Project
 This repository contains my motion graphics thesis project for Metropolia UAS. The purpose of this project was to make a basic boids sim in Unreal Engine 5.
+My thesis can be read here: https://www.theseus.fi/handle/10024/917795 (in finnish).
 
 https://github.com/user-attachments/assets/22ae3baf-de83-4716-9ba6-a78ec2f67515
 
